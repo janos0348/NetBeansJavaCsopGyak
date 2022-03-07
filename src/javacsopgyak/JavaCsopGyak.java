@@ -15,7 +15,8 @@ public class JavaCsopGyak {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        String nev1;
+        String nev2;
     }
     
 }
