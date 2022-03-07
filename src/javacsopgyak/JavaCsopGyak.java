@@ -15,7 +15,7 @@ public class JavaCsopGyak {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String nev1 = "KJ";
+        String nev1 = "KJanos";
         String nev2;
     }
     
